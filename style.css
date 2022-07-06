@@ -1,0 +1,23 @@
+.img {
+    height: 80%;
+    width: 80%;
+}
+.hidden{
+    display: none;
+}
+.layout {
+    /* width: 50%; */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* gap: 16px;
+    flex-wrap: wrap; */
+}
+.tabs{
+    display: flex;
+    list-style: none;
+}
+.question-tab, .solution-tab {
+    background: none;
+}

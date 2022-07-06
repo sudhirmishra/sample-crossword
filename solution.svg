@@ -1,0 +1,325 @@
+<svg viewBox="-0.5 -0.5 901 901" style="width:100%; max-height:1350px; max-width:901.5px" xmlns="http://www.w3.org/2000/svg">
+<style> g rect { height:30px; width:30px; fill:rgb(255,255,255); stroke-width:1; stroke:rgb(0,0,0); } .cx-c { font-size:12px; font-family:monospace; pointer-events:none; font-weight:bold; } .cx-a { font-size:22px; font-family:monospace; text-anchor:middle; pointer-events:none; } </style>
+<g id="cx-0-18">
+<rect x="540" y="0" width="30" height="30" />
+<text class="cx-c" x="542" y="10">1</text>
+<text class="cx-a" x="555" y="21">i</text>
+</g>
+<g id="cx-1-18">
+<rect x="540" y="30" width="30" height="30" />
+<text class="cx-a" x="555" y="51">n</text>
+</g>
+<g id="cx-2-18">
+<rect x="540" y="60" width="30" height="30" />
+<text class="cx-a" x="555" y="81">t</text>
+</g>
+<g id="cx-3-18">
+<rect x="540" y="90" width="30" height="30" />
+<text class="cx-a" x="555" y="111">e</text>
+</g>
+<g id="cx-4-14">
+<rect x="420" y="120" width="30" height="30" />
+<text class="cx-c" x="422" y="130">2</text>
+<text class="cx-a" x="435" y="141">a</text>
+</g>
+<g id="cx-4-15">
+<rect x="450" y="120" width="30" height="30" />
+<text class="cx-a" x="465" y="141">f</text>
+</g>
+<g id="cx-4-16">
+<rect x="480" y="120" width="30" height="30" />
+<text class="cx-a" x="495" y="141">f</text>
+</g>
+<g id="cx-4-17">
+<rect x="510" y="120" width="30" height="30" />
+<text class="cx-a" x="525" y="141">o</text>
+</g>
+<g id="cx-4-18">
+<rect x="540" y="120" width="30" height="30" />
+<text class="cx-a" x="555" y="141">r</text>
+</g>
+<g id="cx-4-19">
+<rect x="570" y="120" width="30" height="30" />
+<text class="cx-a" x="585" y="141">d</text>
+</g>
+<g id="cx-5-18">
+<rect x="540" y="150" width="30" height="30" />
+<text class="cx-a" x="555" y="171">m</text>
+</g>
+<g id="cx-6-18">
+<rect x="540" y="180" width="30" height="30" />
+<text class="cx-a" x="555" y="201">i</text>
+</g>
+<g id="cx-7-10">
+<rect x="300" y="210" width="30" height="30" />
+<text class="cx-c" x="302" y="220">3</text>
+<text class="cx-a" x="315" y="231">c</text>
+</g>
+<g id="cx-7-14">
+<rect x="420" y="210" width="30" height="30" />
+<text class="cx-c" x="422" y="220">4</text>
+<text class="cx-a" x="435" y="231">m</text>
+</g>
+<g id="cx-7-18">
+<rect x="540" y="210" width="30" height="30" />
+<text class="cx-a" x="555" y="231">t</text>
+</g>
+<g id="cx-8-10">
+<rect x="300" y="240" width="30" height="30" />
+<text class="cx-a" x="315" y="261">h</text>
+</g>
+<g id="cx-8-14">
+<rect x="420" y="240" width="30" height="30" />
+<text class="cx-a" x="435" y="261">a</text>
+</g>
+<g id="cx-8-18">
+<rect x="540" y="240" width="30" height="30" />
+<text class="cx-a" x="555" y="261">t</text>
+</g>
+<g id="cx-9-10">
+<rect x="300" y="270" width="30" height="30" />
+<text class="cx-a" x="315" y="291">i</text>
+</g>
+<g id="cx-9-14">
+<rect x="420" y="270" width="30" height="30" />
+<text class="cx-a" x="435" y="291">l</text>
+</g>
+<g id="cx-9-16">
+<rect x="480" y="270" width="30" height="30" />
+<text class="cx-c" x="482" y="280">5</text>
+<text class="cx-a" x="495" y="291">a</text>
+</g>
+<g id="cx-9-17">
+<rect x="510" y="270" width="30" height="30" />
+<text class="cx-a" x="525" y="291">n</text>
+</g>
+<g id="cx-9-18">
+<rect x="540" y="270" width="30" height="30" />
+<text class="cx-a" x="555" y="291">e</text>
+</g>
+<g id="cx-9-19">
+<rect x="570" y="270" width="30" height="30" />
+<text class="cx-a" x="585" y="291">m</text>
+</g>
+<g id="cx-9-20">
+<rect x="600" y="270" width="30" height="30" />
+<text class="cx-a" x="615" y="291">i</text>
+</g>
+<g id="cx-9-21">
+<rect x="630" y="270" width="30" height="30" />
+<text class="cx-a" x="645" y="291">c</text>
+</g>
+<g id="cx-10-10">
+<rect x="300" y="300" width="30" height="30" />
+<text class="cx-a" x="315" y="321">v</text>
+</g>
+<g id="cx-10-14">
+<rect x="420" y="300" width="30" height="30" />
+<text class="cx-a" x="435" y="321">a</text>
+</g>
+<g id="cx-10-18">
+<rect x="540" y="300" width="30" height="30" />
+<text class="cx-a" x="555" y="321">n</text>
+</g>
+<g id="cx-11-8">
+<rect x="240" y="330" width="30" height="30" />
+<text class="cx-c" x="242" y="340">6</text>
+<text class="cx-a" x="255" y="351">h</text>
+</g>
+<g id="cx-11-10">
+<rect x="300" y="330" width="30" height="30" />
+<text class="cx-c" x="302" y="340">7</text>
+<text class="cx-a" x="315" y="351">a</text>
+</g>
+<g id="cx-11-11">
+<rect x="330" y="330" width="30" height="30" />
+<text class="cx-a" x="345" y="351">d</text>
+</g>
+<g id="cx-11-12">
+<rect x="360" y="330" width="30" height="30" />
+<text class="cx-a" x="375" y="351">j</text>
+</g>
+<g id="cx-11-13">
+<rect x="390" y="330" width="30" height="30" />
+<text class="cx-a" x="405" y="351">u</text>
+</g>
+<g id="cx-11-14">
+<rect x="420" y="330" width="30" height="30" />
+<text class="cx-a" x="435" y="351">d</text>
+</g>
+<g id="cx-11-15">
+<rect x="450" y="330" width="30" height="30" />
+<text class="cx-a" x="465" y="351">i</text>
+</g>
+<g id="cx-11-16">
+<rect x="480" y="330" width="30" height="30" />
+<text class="cx-a" x="495" y="351">c</text>
+</g>
+<g id="cx-11-17">
+<rect x="510" y="330" width="30" height="30" />
+<text class="cx-a" x="525" y="351">a</text>
+</g>
+<g id="cx-11-18">
+<rect x="540" y="330" width="30" height="30" />
+<text class="cx-a" x="555" y="351">t</text>
+</g>
+<g id="cx-11-19">
+<rect x="570" y="330" width="30" height="30" />
+<text class="cx-a" x="585" y="351">e</text>
+</g>
+<g id="cx-12-8">
+<rect x="240" y="360" width="30" height="30" />
+<text class="cx-a" x="255" y="381">a</text>
+</g>
+<g id="cx-12-10">
+<rect x="300" y="360" width="30" height="30" />
+<text class="cx-a" x="315" y="381">l</text>
+</g>
+<g id="cx-12-14">
+<rect x="420" y="360" width="30" height="30" />
+<text class="cx-a" x="435" y="381">y</text>
+</g>
+<g id="cx-13-8">
+<rect x="240" y="390" width="30" height="30" />
+<text class="cx-a" x="255" y="411">p</text>
+</g>
+<g id="cx-13-10">
+<rect x="300" y="390" width="30" height="30" />
+<text class="cx-a" x="315" y="411">r</text>
+</g>
+<g id="cx-14-6">
+<rect x="180" y="420" width="30" height="30" />
+<text class="cx-c" x="182" y="430">8</text>
+<text class="cx-a" x="195" y="441">b</text>
+</g>
+<g id="cx-14-7">
+<rect x="210" y="420" width="30" height="30" />
+<text class="cx-a" x="225" y="441">e</text>
+</g>
+<g id="cx-14-8">
+<rect x="240" y="420" width="30" height="30" />
+<text class="cx-a" x="255" y="441">h</text>
+</g>
+<g id="cx-14-9">
+<rect x="270" y="420" width="30" height="30" />
+<text class="cx-a" x="285" y="441">o</text>
+</g>
+<g id="cx-14-10">
+<rect x="300" y="420" width="30" height="30" />
+<text class="cx-a" x="315" y="441">o</text>
+</g>
+<g id="cx-14-11">
+<rect x="330" y="420" width="30" height="30" />
+<text class="cx-a" x="345" y="441">v</text>
+</g>
+<g id="cx-14-12">
+<rect x="360" y="420" width="30" height="30" />
+<text class="cx-a" x="375" y="441">e</text>
+</g>
+<g id="cx-15-8">
+<rect x="240" y="450" width="30" height="30" />
+<text class="cx-a" x="255" y="471">a</text>
+</g>
+<g id="cx-15-10">
+<rect x="300" y="450" width="30" height="30" />
+<text class="cx-a" x="315" y="471">u</text>
+</g>
+<g id="cx-16-8">
+<rect x="240" y="480" width="30" height="30" />
+<text class="cx-a" x="255" y="501">z</text>
+</g>
+<g id="cx-16-10">
+<rect x="300" y="480" width="30" height="30" />
+<text class="cx-a" x="315" y="501">s</text>
+</g>
+<g id="cx-17-8">
+<rect x="240" y="510" width="30" height="30" />
+<text class="cx-a" x="255" y="531">a</text>
+</g>
+<g id="cx-18-3">
+<rect x="90" y="540" width="30" height="30" />
+<text class="cx-c" x="92" y="550">9</text>
+<text class="cx-a" x="105" y="561">i</text>
+</g>
+<g id="cx-18-8">
+<rect x="240" y="540" width="30" height="30" />
+<text class="cx-a" x="255" y="561">r</text>
+</g>
+<g id="cx-19-0">
+<rect x="0" y="570" width="30" height="30" />
+<text class="cx-c" x="2" y="580">10</text>
+<text class="cx-a" x="15" y="591">j</text>
+</g>
+<g id="cx-19-1">
+<rect x="30" y="570" width="30" height="30" />
+<text class="cx-a" x="45" y="591">a</text>
+</g>
+<g id="cx-19-2">
+<rect x="60" y="570" width="30" height="30" />
+<text class="cx-a" x="75" y="591">u</text>
+</g>
+<g id="cx-19-3">
+<rect x="90" y="570" width="30" height="30" />
+<text class="cx-a" x="105" y="591">n</text>
+</g>
+<g id="cx-19-4">
+<rect x="120" y="570" width="30" height="30" />
+<text class="cx-a" x="135" y="591">d</text>
+</g>
+<g id="cx-19-5">
+<rect x="150" y="570" width="30" height="30" />
+<text class="cx-a" x="165" y="591">i</text>
+</g>
+<g id="cx-19-6">
+<rect x="180" y="570" width="30" height="30" />
+<text class="cx-a" x="195" y="591">c</text>
+</g>
+<g id="cx-19-7">
+<rect x="210" y="570" width="30" height="30" />
+<text class="cx-a" x="225" y="591">e</text>
+</g>
+<g id="cx-19-8">
+<rect x="240" y="570" width="30" height="30" />
+<text class="cx-a" x="255" y="591">d</text>
+</g>
+<g id="cx-20-3">
+<rect x="90" y="600" width="30" height="30" />
+<text class="cx-a" x="105" y="621">f</text>
+</g>
+<g id="cx-21-3">
+<rect x="90" y="630" width="30" height="30" />
+<text class="cx-a" x="105" y="651">l</text>
+</g>
+<g id="cx-22-3">
+<rect x="90" y="660" width="30" height="30" />
+<text class="cx-a" x="105" y="681">a</text>
+</g>
+<g id="cx-23-3">
+<rect x="90" y="690" width="30" height="30" />
+<text class="cx-a" x="105" y="711">m</text>
+</g>
+<g id="cx-24-3">
+<rect x="90" y="720" width="30" height="30" />
+<text class="cx-a" x="105" y="741">m</text>
+</g>
+<g id="cx-25-3">
+<rect x="90" y="750" width="30" height="30" />
+<text class="cx-a" x="105" y="771">a</text>
+</g>
+<g id="cx-26-3">
+<rect x="90" y="780" width="30" height="30" />
+<text class="cx-a" x="105" y="801">t</text>
+</g>
+<g id="cx-27-3">
+<rect x="90" y="810" width="30" height="30" />
+<text class="cx-a" x="105" y="831">o</text>
+</g>
+<g id="cx-28-3">
+<rect x="90" y="840" width="30" height="30" />
+<text class="cx-a" x="105" y="861">r</text>
+</g>
+<g id="cx-29-3">
+<rect x="90" y="870" width="30" height="30" />
+<text class="cx-a" x="105" y="891">y</text>
+</g>
+</svg>
